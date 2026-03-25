@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Aura_v2_full",
+    "adaptor": "aura",
+    "root": "/workspace/data/Aura_v2",
+    "meta_glob": "meta.jsonl"
+  }
+]

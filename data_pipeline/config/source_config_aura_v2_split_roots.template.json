@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Aura_v2_2spk3spk",
+    "adaptor": "aura",
+    "root": "<PATH_TO_2SPK3SPK_ROOT>",
+    "meta_glob": "meta.jsonl"
+  },
+  {
+    "name": "Aura_v2_1spk",
+    "adaptor": "aura",
+    "root": "<PATH_TO_1SPK_ROOT>",
+    "meta_glob": "meta.jsonl"
+  }
+]
